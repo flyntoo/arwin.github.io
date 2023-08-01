@@ -1,0 +1,46 @@
+body{
+    min-height: 100px;
+   
+}
+.jumbotron{ 
+    padding-top: 3rem;
+    background-color: #e2edff;
+}
+
+.col+p{
+    text-align: start;
+}
+
+#project{
+    background-color: #e2edff;
+}
+#contact{
+    min-height: 10px;
+    background-color: white;
+}
+
+
+#bi-whatsapp{
+    justify-content: end;
+}
+
+footer{
+    min-height: 50px;
+}
+
+label{
+    justify-content: start;
+}
+#email{
+    justify-content: start;
+}
+
+#name{
+    justify-content: start;
+}
+#gelombang{
+    color: rgb(247, 247, 247);
+}
+section{
+    padding-top: 4rem;
+}
